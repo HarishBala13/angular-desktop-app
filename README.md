@@ -1,5 +1,5 @@
 # angular-desktop-app
-Buidling an tool that can collobrate with the embedded systems with serialport and more signals with Angular as a fron-end framework in a Desktop application.
+Buidling an tool that can collobrate with the embedded systems with serialport and more signals with Angular as a front-end framework in a Desktop application.
 
 Reference links:- 
 1. https://chatgpt.com/share/67113d85-5e94-800c-8704-fd2b9f9d22c7
